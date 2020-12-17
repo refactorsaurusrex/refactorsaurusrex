@@ -1,6 +1,14 @@
-# Project Downloads
+# Project Download Scoreboard
 
-A list of some of my favorite open source projects, and their download counts.
+> An overview of my open source projects
+
+| Project   | Description                                                  | Downloads                                                    |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| agile-cli | Generate agile metrics for your team's Jira project right from the command line! | ![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/AgileCli?logo=powershell&style=for-the-badge) |
+|           |                                                              |                                                              |
+|           |                                                              |                                                              |
+
+
 
 ## agile-cli
 
