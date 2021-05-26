@@ -12,6 +12,6 @@
 | [FluentConsole](https://github.com/refactorsaurusrex/FluentConsole) | A fluent interface for C# console applications.              | ![Nuget](https://img.shields.io/nuget/dt/FluentConsole.Library?logo=nuget&style=for-the-badge) |
 | [journal-cli](https://github.com/refactorsaurusrex/journal-cli) | Index your markdown-based journal with yaml front matter!    | ![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/journalcli?style=for-the-badge&label=Downloads&logo=powershell) |
 | [NoDoz](https://github.com/refactorsaurusrex/NoDoz)          | Keeping Windows awake at night since 2019!                   | ![GitHub All Releases](https://img.shields.io/github/downloads/refactorsaurusrex/nodoz/total?logo=github&style=for-the-badge) |
-| [Snippy](https://github.com/refactorsaurusrex/snippy)        | A low-key, cli-oriented code snippet manager.                | ![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/snippy?style=for-the-badge&label=Downloads&logo=powershell) |
 | [WhatsNew](https://github.com/refactorsaurusrex/whats-new)   | PowerShell functions for versioning a git repo with tags and more! | ![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/whatsnew?style=for-the-badge&label=Downloads&logo=powershell) |
 | [WriteParagraph](https://github.com/refactorsaurusrex/WriteParagraph) | Write-Host, now with word wrapping!                          | ![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/WriteParagraph?logo=powershell&style=for-the-badge) |
+
